@@ -5,11 +5,11 @@
 
 # Compte rendu
 
-📊## Analyse de l'Équilibre entre Usage des Réseaux Sociaux et Santé Mentale 
+📊 Analyse de l'Équilibre entre Usage des Réseaux Sociaux et Santé Mentale 
 
 **Date :** 29 Novembre 2025
 
-readme_content = f"""# Analyse de l'Indice de Bonheur et Impact des Média Sociaux
+
 
 ## Introduction
 Ce projet vise à analyser les facteurs influençant l'indice de bonheur à partir d'un jeu de données relatif à la santé mentale et l'équilibre des médias sociaux. L'objectif est de construire et d'évaluer plusieurs modèles de régression pour prédire cet indice, ainsi qu'un modèle de classification pour catégoriser le niveau de bonheur. L'analyse mettra en lumière les variables clés ayant un impact significatif sur le bien-être.
