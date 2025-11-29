@@ -102,11 +102,7 @@ Le modèle de régression logistique a une précision globale de {model_lr.score
 ## Conclusions Générales
 Cette analyse a démontré l'importance des facteurs liés au mode de vie et à la santé mentale dans la détermination de l'indice de bonheur. La capacité de la Forêt Aléatoire à gérer la complexité des relations en fait le modèle le plus adapté pour cette tâche. Les interventions visant à améliorer le bonheur devraient cibler la gestion du stress, l'amélioration du sommeil et la modération du temps d'écran.
 
-## Prochaines Étapes
-- **Optimisation des hyperparamètres** : Utiliser des techniques comme la recherche par grille (Grid Search) ou la recherche aléatoire (Random Search) pour affiner les modèles, en particulier la Forêt Aléatoire et l'Arbre de Décision.
-- **Rééquilibrage des classes** : Appliquer des méthodes de rééquilibrage (SMOTE, sur/sous-échantillonnage) pour améliorer la performance du modèle de régression logistique sur les classes minoritaires.
-- **Exploration d'autres modèles** : Tester d'autres algorithmes d'apprentissage automatique comme XGBoost ou LightGBM pour la régression et la classification.
-- **Analyse d'interactions** : Étudier plus en profondeur les interactions entre les caractéristiques pour affiner la compréhension des relations non linéaires.
+
 - **Collecte de données supplémentaires** : Un jeu de données plus vaste ou incluant d'autres variables pourrait renforcer la robustesse et la généralisabilité des modèles.
 """
 
